@@ -1,3 +1,3 @@
 # Chess
 
-A web app that allows you tu play chess 
+A web app to play chess 
